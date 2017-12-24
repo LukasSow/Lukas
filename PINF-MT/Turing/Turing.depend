@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1514089326 source:/home/lukas/Git/PINF-MT/Turing/store.c
+	"store.h"
+
+1514082058 /home/lukas/Git/PINF-MT/Turing/store.h
+	<stdlib.h>
+	<stdio.h>
+
+1514089157 source:/home/lukas/Git/PINF-MT/Turing/main.c
+	"store.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ciagi.h"
+
+1514084438 /home/lukas/Git/PINF-MT/Turing/ciagi.h
+
+1514089106 source:/home/lukas/Git/PINF-MT/Turing/ciagi.c
+	"ciagi.h"
+	<stdio.h>
+
